@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarea 1 Computacion Movil</string>
+    <string name="activity1_text">Ir a la Actividad Dos</string>
+    <string name="activity2_text">Ir a home</string>
+</resources>
